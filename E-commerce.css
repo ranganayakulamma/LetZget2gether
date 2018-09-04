@@ -1,0 +1,358 @@
+#wrapper
+{
+	font-family: tahoma;
+}
+.container
+{
+	width:90%;
+	margin:0 auto;
+}
+#subheader
+{
+	width: 100%;
+	height: 30px;
+	background: green;
+	color: white;
+	margin-top: -15px;
+}
+#subheader p
+{
+	float: left;
+	margin-top: 7px;
+}
+#subheader a
+{
+	float:right;
+	line-height: 30px;
+	color: white;
+	text-decoration: none;
+	margin-left: 30px;
+}
+/*logo styling*/
+#main_header{
+	width: 100%;
+	height: 100px;
+	background:#1aaa1a;
+	float: left;
+	margin-top: -15px;
+}
+#logo
+{
+	width: 250px;
+	margin-top: 10px;
+	float: left;
+	
+}
+#ist
+{
+	color: black;
+	font-size: 45px;
+	font-weight: bold;
+	margin-left: 15px;
+	font-family: cursive;
+	
+}
+#iist
+{
+	color: black;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: cursive;
+}
+/* searching area styling */
+#search{
+	width: 650px;
+	float:left;
+	padding: 20px;
+	margin-left: 50px;
+	
+}
+.search-area
+{
+	width:640px;
+	height:50px;
+	background:#fff;
+	border:none;
+	border-radius:20px;
+	float:left;
+	padding-left:15px;
+}
+.search-btn
+{
+    width: 100px;
+	height: 50px;
+	border-radius: 10px;
+	border: none;
+	color: #fff;
+	background: brown;
+	margin-left: -110px;
+}
+/* this is for user menu styling */
+#user-menu
+{
+	width: 300px;
+	float: right;
+	margin-top: 20px;
+}
+/* this is for list styling */
+#user-menu li
+{
+	float: left;
+	width: 140px;
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	border-left: 1px solid black;
+	
+}
+#user-menu li:hover{
+	font-size: 30px;
+	transition: all .5s ease;
+}
+#user-menu li a
+{
+	color: white;
+	text-decoration: none;
+}
+/* this style for navigation bar */
+#navigation
+{
+	width: 100%;
+	height: 35px;
+	background: #1aaa1a;
+	float: left;
+	box-shadow: 10px 14px 50px 2px #1aaa1a;
+}
+/*nav
+{
+	width: 128px;
+	margin: 0 auto;
+}*/
+nav a 
+{
+   margin-left: 35px;
+   color: white;
+   text-decoration: none;
+}
+nav a:hover{
+color: #000;
+transition: all .7s ease;
+}*/
+
+
+
+/*circle*/
+
+.circle
+{
+	background-image: url(demo2.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	
+	}
+.cir
+{
+background-image: url(demo2.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 220px;
+	margin-top: -200px;
+}
+.cir1
+{
+background-image: url(demo2.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 440px;
+	margin-top: -200px;
+}
+.cir2
+{
+background-image: url(demo2.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 660px;
+	margin-top: -200px;
+}
+.cir3
+{
+background-image: url(demo2.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 880px;
+	margin-top: -200px;
+}
+.cir4
+{
+background-image: url(demo2.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 1100px;
+	margin-top: -200px;
+}
+.tt
+{
+	padding: 50px;
+}
+h3
+{
+	font-size: 40px;
+	font-family: fantasy;
+	margin-left: 550px;
+	margin-top: -40px;
+}
+.hir1
+{
+background-image: url(photograpy.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 85px;
+	margin-top: 40px;
+}
+.hir2
+{
+background-image: url(food.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 390px;
+	margin-top: -120px;
+}
+
+.hir3
+{
+background-image: url(img4.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 700px;
+	margin-top: -120px;
+}
+
+.hir4
+{
+background-image: url(family.jpg);
+	width: 230px;
+	height: 120px;
+	border-radius: 00px;
+	margin-left: 1010px;
+	margin-top: -120px;
+}
+.hir5
+{
+background-image: url(fashion.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 85px;
+	margin-top: 60px;
+}
+.hir6
+{
+background-image: url(movement.jpg);
+	width: 230px;
+	height: 120px;
+	border-radius: 00px;
+	margin-left: 390px;
+	margin-top: -120px;
+}
+.hir7
+{
+background-image: url(film.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 700px;
+	margin-top: -120px;
+}
+.hir8
+{
+background-image: url(music.jpg);
+	width: 230px;
+	height: 120px;
+	border-radius: 00px;
+	margin-left: 1010px;
+	margin-top: -120px;
+}
+.hir9
+{
+background-image: url(learning.png);
+	width: 230px;
+	height: 120px;
+	margin-left: 85px;
+	margin-top: 60px;
+}
+.hir10
+{
+background-image: url(img5.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 390px;
+	margin-top: -120px;
+}
+.hir11
+{
+background-image: url(books.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 700px;
+	margin-top: -120px;
+}
+.hir12
+{
+background-image: url(art.jpg);
+	width: 230px;
+	height: 120px;
+	margin-left: 1010px;
+	margin-top: -120px;
+}
+.cir11
+{
+background-image: url(ent1.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 85px;
+	margin-top: 50px;
+}
+.cir22
+{
+background-image: url(ent5.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 400px;
+	margin-top: -200px;
+}
+.cir33
+{
+background-image: url(ent3.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 700px;
+	margin-top: -200px;
+}
+.cir44
+{
+background-image: url(ent4.jpg);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: 1010px;
+	margin-top: -200px;
+}
+.cir55
+{
+	background-image: url(img5.jpg);
+	width: 190px;
+	height: 150px;
+	border-radius: 180px;
+	margin-left: 85px;
+	margin-top: 50px;
+}
+
+
+
